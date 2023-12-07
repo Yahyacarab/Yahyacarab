@@ -7,4 +7,4 @@ Hola! I'm Yahya Carab
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carabexciting&label=Profile%20views&color=0e75b6&style=flat" alt="carabexciting" /> </p>
 
- Frontend developer who's enthusiastic about tech, i started from SCM background although i possess my feild, but i realized coding was my fond and now i'm here. i exciting to grow as a developer and making positive impact in the tech industry. 
+ Frontend developer who's enthusiastic about tech, i started from SCM background although i possess my feild, but i realized coding was my fond. i exciting to grow as a developer and making positive impact in the tech industry. 
